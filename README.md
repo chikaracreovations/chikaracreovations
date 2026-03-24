@@ -6,18 +6,12 @@
 
 ---
 
-## 🧠 About Me  
-- 🌱 I’m currently learning C, C++ and DSA  
-- 🔭 Working on improving problem-solving skills  
-- 📚 Exploring core CS concepts step by step  
-- 🎯 Goal: Crack good internships & build strong skills  
-- ⚡ Fun fact: I like building things that actually work  
-
----
 
 ## 🛠️ Languages and Tools  
 - C  
-- C++  
+- C++
+- PYTHON
+- HTML,CSS,JS 
 - Git & GitHub  
 - VS Code  
 
@@ -44,7 +38,7 @@
 ---
 
 ## 🔗 Connect with Me  
-- LinkedIn: (Add your link here)  
+- LinkedIn: www.linkedin.com/in/ansh-chikara 
 
 ---
 
