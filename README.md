@@ -1,19 +1,21 @@
-# Hi 👋, I'm Ansh Chikara  
+# Hi 👋, I'm Ansh Chikara   
 
-🎓 Computer Science Engineering Student  
-💻 Passionate about Coding, DSA & Problem Solving  
-🚀 Currently learning Data Structures & Algorithms  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;DSA+Learner;C+%7C+C%2B%2B+Programmer;Building+Consistency+Daily" />
 
 ---
 
 
-## 🛠️ Languages and Tools  
-- C  
-- C++
-- PYTHON
-- HTML,CSS,JS 
-- Git & GitHub  
-- VS Code  
+## 🧑‍💻 About Me  
+🎓 CSE Student focused on building strong fundamentals  
+💡 Currently diving deep into **Data Structures & Algorithms**   
+
+---
+
+
+# 🛠️ Tech Stack  
+Languages:   C | C++ | PYTHON
+Tools:       Git | GitHub | VS Code  
+Learning:    DSA | Problem Solving | Core CS  
 
 ---
 
@@ -33,8 +35,12 @@
 ---
 
 ## 📊 GitHub Stats  
-(You can add stats later using GitHub readme stats)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" />
+</p>
 
+---
 ---
 
 ## 🔗 Connect with Me  
