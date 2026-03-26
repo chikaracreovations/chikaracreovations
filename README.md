@@ -7,16 +7,16 @@
 
 ## 🧑‍💻 About Me  
 🎓 CSE Student exploring problem-solving and system thinking
-💡 Currently diving deep into **Data Structures & Algorithms** ann **Web Development**
+💡 Currently diving deep into **Data Structures & Algorithms** and **Web Development**
 
 ---
 
 
 # 🛠️ Tech Stack  
-Languages:   C | C++ | PYTHON
-Web Development:-  HTML/CSS/JS/Node.js/ Express /Tailwind Css
-Tools:       Git | GitHub | VS Code  
-Learning:    DSA | Problem Solving | Core CS | Web Development | AI & ML Fundamentals 
+- Languages:   C | C++ | PYTHON
+- Web Development:-  HTML/CSS/JS/Node.js/ Express /Tailwind Css
+- Tools:       Git | GitHub | VS Code  
+- Learning:    DSA | Problem Solving | Core CS | Web Development | AI & ML Fundamentals 
 
 ---
 
