@@ -6,16 +6,17 @@
 
 
 ## 🧑‍💻 About Me  
-🎓 CSE Student focused on building strong fundamentals  
-💡 Currently diving deep into **Data Structures & Algorithms**   
+🎓 CSE Student exploring problem-solving and system thinking
+💡 Currently diving deep into **Data Structures & Algorithms** ann **Web Development**
 
 ---
 
 
 # 🛠️ Tech Stack  
 Languages:   C | C++ | PYTHON
+Web Development:-  HTML/CSS/JS/Node.js/ Express /Tailwind Css
 Tools:       Git | GitHub | VS Code  
-Learning:    DSA | Problem Solving | Core CS  
+Learning:    DSA | Problem Solving | Core CS | Web Development | AI & ML Fundamentals 
 
 ---
 
@@ -41,14 +42,6 @@ Learning:    DSA | Problem Solving | Core CS
 </p>
 
 ---
----
 
 ## 🔗 Connect with Me  
 - LinkedIn: www.linkedin.com/in/ansh-chikara 
-
----
-
-## 💡 Quote  
-"Consistency beats motivation."  
-
----
