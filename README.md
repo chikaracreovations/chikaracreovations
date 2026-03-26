@@ -14,10 +14,10 @@
 
 # 🛠️ Tech Stack  
 - 💻 Languages: C, C++, Python, JavaScript
--🧑‍💻 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
--⚙️ Backend: Node.js, Google Firebase (Authentication, Firestore, Cloud Functions)
--🚀 Deployment & DevOps: Vercel, Cloudflare (Domains, DNS, CDN)
--🛠️ Tools: Git, GitHub
+- 🧑‍💻 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+- ⚙️ Backend: Node.js, Google Firebase (Authentication, Firestore, Cloud Functions)
+- 🚀 Deployment & DevOps: Vercel, Cloudflare (Domains, DNS, CDN)
+- 🛠️ Tools: Git, GitHub
 - Learning: DSA | Problem Solving | Core CS | Web Development | AI & ML Fundamentals 
 
 ---
