@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ansh Chikara   
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;DSA+Learner;C+%7C+C%2B%2B+Programmer;Building+Consistency+Daily" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.Learn.Build.Repeat;C+%7C+C%2B%2B+while (! (succeed = try) )" />
 
 ---
 
