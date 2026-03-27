@@ -1,6 +1,8 @@
 # Hi 👋, I'm Ansh Chikara   
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Repeat.;while(!success)+try();" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=700&color=00FFB3&center=true&vCenter=true&width=850&lines=>+Code.+Learn.+Build.+Repeat.;>+while(!success)+try();" />
+</p>
 
 ## 🧑‍💻 About Me  
 🎓 CSE Student exploring problem-solving and system thinking
