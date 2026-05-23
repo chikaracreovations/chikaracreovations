@@ -59,7 +59,7 @@ Here are some of the key web applications I have built to solve real-world probl
 > Canvas drawing workspaces for both standalone and real-time collaborative drafting.
 *   **Core Tech**: HTML5 Canvas, JavaScript, WebSockets
 *   **Key Features**: Solo browser sketching with save/load local storage; collaborative model using WebSocket events for concurrent low-latency drawing.
-*   🔗 [Live Doodle Board](https://chikaracreovations.github.io/Doodle-Board/index.html) | [GitHub Repository](https://github.com/chikaracreovations/Doodle-Board)
+*   🔗 [Live Doodle Board](https://chikaracreovations.github.io/Collaborative-Doodle-Board/main.html) | [GitHub Repository](https://github.com/chikaracreovations/Doodle-Board)
 
 ---
 
