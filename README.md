@@ -35,13 +35,13 @@ I am a **Computer Science & Engineering student** fueled by curiosity, a systems
 
 ## 📌 Featured Projects
 
-Here are some of the key web applications and platforms I have built to solve real-world problems and explore modern architectures:
+Here are some of the key web applications I have built to solve real-world problems and explore modern architectures:
 
 ### 🤖 Naira - Virtual AI Assistant
 > A web-based AI companion featuring text and voice interactions powered by LLMs.
 *   **Core Tech**: JavaScript, Mistral-7B-Instruct, OpenRouter API
 *   **Key Features**: Futuristic glowing core animation UI, high-responsiveness, dual interactive channels (text and speech).
-*   🔗 [Live Demo](https://fridayaiassistant.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Naira-Virtual-AI-Assistant)
+*   🔗 [Live Demo](https://fridayaiassistant.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Ai-Chatbot-Naira.git)
 
 ### 🛒 Aura - Premium E-Commerce Store
 > A sophisticated, high-end e-commerce platform curating luxury apparel, modern tech, and urban accessories.
