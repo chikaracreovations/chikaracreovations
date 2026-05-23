@@ -67,15 +67,18 @@ Here are some of the key web applications and platforms I have built to solve re
 
 <p align="center">
   <a href="https://github.com/chikaracreovations">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ansh's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ansh's GitHub Stats" />
   </a>
   <a href="https://github.com/chikaracreovations">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikaracreovations&layout=compact&theme=tokyonight&langs_count=6" alt="Ansh's Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikaracreovations&layout=compact&theme=tokyonight&langs_count=6" alt="Ansh's Top Languages" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/chikaracreovations">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" alt="Ansh's Contribution Streak" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" alt="Ansh's Contribution Streak" />
+  </a>
+  <a href="https://leetcode.com/chikaracreovations" target="_blank">
+    <img height="180" src="https://leetcard.jacoblin.cool/chikaracreovations?theme=dark&font=Fira%20Code" alt="Ansh's LeetCode Stats" />
   </a>
 </p>
 
