@@ -1,10 +1,8 @@
 # Hi 👋, I'm Ansh Chikara   
 
-<p align="center">
-  <a href="https://chikara-creovations.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Interactive%20Portfolio-Chikara%20Creovations-00FFB3?style=for-the-badge&labelColor=121011" alt="Interactive Portfolio Website" height="40" />
-  </a>
-</p>
+Welcome to my digital space! I am a passionate Computer Science & Engineering student and Full-Stack Developer. 
+
+🔗 **Explore my interactive projects, read my technical journals, and connect with me at [chikara-creovations.netlify.app](https://chikara-creovations.netlify.app)**.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=%3E+Code.+Learn.+Build.+Repeat.;%3E+while(!success)+try();%3E+Building+intelligent+web+solutions." alt="Typing SVG" />
