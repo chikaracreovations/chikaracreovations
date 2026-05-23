@@ -1,48 +1,86 @@
 # Hi 👋, I'm Ansh Chikara   
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=700&color=00FFB3&center=true&vCenter=true&width=850&lines=>+Code.+Learn.+Build.+Repeat.;>+while(!success)+try();" />
+  <img src="./assets/profile_banner.png" alt="Ansh Chikara - Profile Banner" width="100%" />
 </p>
 
-## 🧑‍💻 About Me  
-🎓 CSE Student exploring problem-solving and system thinking
-💡 Currently diving deep into **Data Structures & Algorithms** and **Web Development**
-
----
-
-
-# 🛠️ Tech Stack  
-- 💻 Languages: C, C++, Python, JavaScript
-- 🧑‍💻 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
-- ⚙️ Backend: Node.js, Google Firebase (Authentication, Firestore, Cloud Functions)
-- 🚀 Deployment & DevOps: Vercel, Cloudflare (Domains, DNS, CDN)
-- 🛠️ Tools: Git, GitHub
-- Learning: DSA | Problem Solving | Core CS | Web Development | AI & ML Fundamentals 
-
----
-
-## 📈 Learning Journey  
-- Started with C programming  
-- Moving towards C++ for DSA  
-- Practicing problems daily  
-- Building consistency and discipline  
-
----
-
-## 📌 Projects  
-- 🔹 Basic C Programs (College Work)  
-- 🔹 File Handling & Pointer Programs  
-- 🔹 DSA Practice Problems  
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=%3E+Code.+Learn.+Build.+Repeat.;%3E+while(!success)+try();%3E+Building+intelligent+web+solutions." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔗 Connect with Me  
-- LinkedIn: www.linkedin.com/in/ansh-chikara 
+## 🧑‍💻 About Me
+
+I am a **Computer Science & Engineering student** fueled by curiosity, a systems-first mindset, and a passion for crafting elegant digital experiences. I specialize in designing responsive, high-performance web applications, developing intelligent AI assistant interfaces, and implementing clean database architectures.
+
+*   🎓 **Academic Path**: CSE student focusing on **Data Structures & Algorithms (DSA)** and **Software Architecture**.
+*   💡 **Core Interests**: Frontend UI/UX, Full-Stack Architectures, and the integration of AI models (LLMs) with web applications.
+*   🧠 **My Philosophy**: *"Unbound by titles, defined by passion."* I strive to write consistent, clean, and highly performant code.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend & DB** | ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
+| **DevOps & Cloud** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+## 📌 Featured Projects
+
+Here are some of the key web applications and platforms I have built to solve real-world problems and explore modern architectures:
+
+### 🤖 Naira - Virtual AI Assistant
+> A web-based AI companion featuring text and voice interactions powered by LLMs.
+*   **Core Tech**: JavaScript, Mistral-7B-Instruct, OpenRouter API
+*   **Key Features**: Futuristic glowing core animation UI, high-responsiveness, dual interactive channels (text and speech).
+*   🔗 [Live Demo](https://fridayaiassistant.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Naira-Virtual-AI-Assistant)
+
+### 🛒 The Demo Store
+> A fully-featured, production-ready customizable e-commerce demonstration platform.
+*   **Core Tech**: HTML, CSS, JavaScript, Firebase, Razorpay API, EmailJS
+*   **Key Features**: Automated transaction receipt emails, integrated secure payment gateways, dynamic order management, responsive shopping interface.
+*   🔗 [Live Demo](https://chikaracreovations.github.io/The-Demo-Store/public/index.html) | [GitHub Repository](https://github.com/chikaracreovations/The-Demo-Store)
+
+### 📔 Reflectly - A Calming Journal
+> A secure personal reflection space designed with minimalist aesthetics.
+*   **Core Tech**: HTML, CSS, Firebase (Auth & Firestore)
+*   **Key Features**: User-specific workspace authentication, real-time database syncing, clean UI designed to reduce digital clutter and encourage reflection.
+*   🔗 [Live Demo](https://chikaracreovations.github.io/Reflectly-A-Calming-Journal/index.html) | [GitHub Repository](https://github.com/chikaracreovations/Reflectly-A-Calming-Journal)
+
+### 🎨 Doodle Board & Collaborative Whiteboard
+> Canvas drawing workspaces for both standalone and real-time collaborative drafting.
+*   **Core Tech**: HTML5 Canvas, JavaScript, WebSockets
+*   **Key Features**: Solo browser sketching with save/load local storage; collaborative model using WebSocket events for concurrent low-latency drawing.
+*   🔗 [Live Doodle Board](https://chikaracreovations.github.io/Doodle-Board/index.html) | [GitHub Repository](https://github.com/chikaracreovations/Doodle-Board)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/chikaracreovations">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ansh's GitHub Stats" />
+  </a>
+  <a href="https://github.com/chikaracreovations">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikaracreovations&layout=compact&theme=tokyonight&langs_count=6" alt="Ansh's Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/chikaracreovations">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" alt="Ansh's Contribution Streak" />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+Let's collaborate, talk tech, or discuss opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-chikara) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chikara-creovations.netlify.app)
