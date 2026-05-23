@@ -70,18 +70,6 @@ Here are some of the key web applications I have built to solve real-world probl
     <tr border="0">
       <td align="center" valign="middle" border="0" style="border: none;">
         <a href="https://github.com/chikaracreovations">
-          <img height="180" src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ansh's GitHub Stats" />
-        </a>
-      </td>
-      <td align="center" valign="middle" border="0" style="border: none;">
-        <a href="https://github.com/chikaracreovations">
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikaracreovations&layout=compact&theme=tokyonight&langs_count=6" alt="Ansh's Top Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr border="0">
-      <td align="center" valign="middle" border="0" style="border: none;">
-        <a href="https://github.com/chikaracreovations">
           <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" alt="Ansh's Contribution Streak" />
         </a>
       </td>
