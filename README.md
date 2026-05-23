@@ -1,24 +1,24 @@
 # Hi 👋, I'm Ansh Chikara   
 
-Welcome to my digital space! I am a passionate Computer Science & Engineering student and Full-Stack Developer. 
+Welcome to my digital space! I am a passionate **2nd Year Computer Science & Engineering (AI) student** and Developer. 
 
 🔗 **Explore my interactive projects, read my technical journals, and connect with me at [chikara-creovations.netlify.app](https://chikara-creovations.netlify.app)**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=%3E+Code.+Learn.+Build.+Repeat.;%3E+while(!success)+try();%3E+Building+intelligent+web+solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=%3E+2nd+Year+CSE+(AI)+Student;%3E+while(!success)+try();%3E+Building+intelligent+systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a **Computer Science & Engineering student** fueled by curiosity, a systems-first mindset, and a passion for crafting elegant digital experiences. I specialize in designing responsive, high-performance web applications, developing intelligent AI assistant interfaces, and implementing clean database architectures.
+I am a **2nd Year Computer Science & Engineering (AI) student** fueled by curiosity, academic rigor, and a passion for building intelligent systems. I focus on establishing solid Computer Science foundations (DSA, OOP, System Architectures) while actively developing smart full-stack applications and exploring modern Machine Learning workflows.
 
 ✨ **Discover my full works, read my journals, and view my achievements on my [🌐 Interactive Portfolio Website](https://chikara-creovations.netlify.app)**!
 
-*   🎓 **Academic Path**: CSE student focusing on **Data Structures & Algorithms (DSA)** and **Software Architecture**.
-*   💡 **Core Interests**: Frontend UI/UX, Full-Stack Architectures, and the integration of AI models (LLMs) with web applications.
-*   🧠 **My Philosophy**: *"Unbound by titles, defined by passion."* I strive to write consistent, clean, and highly performant code.
+*   🎓 **Academic Journey**: 2nd Year CSE specializing in **Artificial Intelligence & Machine Learning**, mastering **Data Structures & Algorithms (DSA)** and Core CS concepts.
+*   💡 **AI & Development Focus**: Deeply interested in NLP, LLM API integrations, neural network paradigms, and crafting responsive, intelligent UI/UX experiences.
+*   🧠 **Sophomore Mission**: Maintaining strict daily coding consistency, solving algorithmic puzzles, and exploring the intersection of AI with web architectures.
 
 ---
 
@@ -27,6 +27,7 @@ I am a **Computer Science & Engineering student** fueled by curiosity, a systems
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **AI, ML & Data** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend & DB** | ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
 | **DevOps & Cloud** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
