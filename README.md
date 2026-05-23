@@ -47,7 +47,7 @@ Here are some of the key web applications and platforms I have built to solve re
 > A sophisticated, high-end e-commerce platform curating luxury apparel, modern tech, and urban accessories.
 *   **Core Tech**: React, Tailwind CSS, Node.js, Firebase (Auth & Firestore), SSL Security Protocols
 *   **Key Features**: Impeccable premium product showcases, bank-grade secure checkout, integrated order tracking system, and a robust Operator Admin dashboard for inventory management.
-*   🔗 [Live Demo](https://auraaaa-store.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations)
+*   🔗 [Live Demo](https://auraaaa-store.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Aura-store.git)
 
 ### 📔 Reflectly - A Calming Journal
 > A secure personal reflection space designed with minimalist aesthetics.
