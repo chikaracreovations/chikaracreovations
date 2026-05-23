@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ansh Chikara   
 
 <p align="center">
-  <img src="./assets/profile_banner.png" alt="Ansh Chikara - Profile Banner" width="100%" />
+  <img src="./assets/profile_banner.png" alt="Ansh Chikara - Profile Banner" width="850" />
 </p>
 
 <p align="center">
