@@ -1,7 +1,9 @@
 # Hi 👋, I'm Ansh Chikara   
 
 <p align="center">
-  <img src="./assets/profile_banner.png" alt="Ansh Chikara - Profile Banner" width="850" />
+  <a href="https://chikara-creovations.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Interactive%20Portfolio-Chikara%20Creovations-00FFB3?style=for-the-badge&labelColor=121011" alt="Interactive Portfolio Website" height="40" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,6 +15,8 @@
 ## 🧑‍💻 About Me
 
 I am a **Computer Science & Engineering student** fueled by curiosity, a systems-first mindset, and a passion for crafting elegant digital experiences. I specialize in designing responsive, high-performance web applications, developing intelligent AI assistant interfaces, and implementing clean database architectures.
+
+✨ **Discover my full works, read my journals, and view my achievements on my [🌐 Interactive Portfolio Website](https://chikara-creovations.netlify.app)**!
 
 *   🎓 **Academic Path**: CSE student focusing on **Data Structures & Algorithms (DSA)** and **Software Architecture**.
 *   💡 **Core Interests**: Frontend UI/UX, Full-Stack Architectures, and the integration of AI models (LLMs) with web applications.
