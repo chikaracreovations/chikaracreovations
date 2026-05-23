@@ -5,7 +5,7 @@ Welcome to my digital space! I am a passionate **2nd Year Computer Science & Eng
 🔗 **Explore my interactive projects, read my technical journals, and connect with me at [chikara-creovations.netlify.app](https://chikara-creovations.netlify.app)**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=%3E+2nd+Year+CSE+(AI)+Student;%3E+while(!success)+try();%3E+Building+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=%3E+Code.+Learn.+Build.+Repeat.;while(!success)+try()" alt="Typing SVG" />
 </p>
 
 ---
