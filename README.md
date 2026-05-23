@@ -43,11 +43,11 @@ Here are some of the key web applications and platforms I have built to solve re
 *   **Key Features**: Futuristic glowing core animation UI, high-responsiveness, dual interactive channels (text and speech).
 *   🔗 [Live Demo](https://fridayaiassistant.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Naira-Virtual-AI-Assistant)
 
-### 🛒 The Demo Store
-> A fully-featured, production-ready customizable e-commerce demonstration platform.
-*   **Core Tech**: HTML, CSS, JavaScript, Firebase, Razorpay API, EmailJS
-*   **Key Features**: Automated transaction receipt emails, integrated secure payment gateways, dynamic order management, responsive shopping interface.
-*   🔗 [Live Demo](https://chikaracreovations.github.io/The-Demo-Store/public/index.html) | [GitHub Repository](https://github.com/chikaracreovations/The-Demo-Store)
+### 🛒 Aura - Premium E-Commerce Store
+> A sophisticated, high-end e-commerce platform curating luxury apparel, modern tech, and urban accessories.
+*   **Core Tech**: React, Tailwind CSS, Node.js, Firebase (Auth & Firestore), SSL Security Protocols
+*   **Key Features**: Impeccable premium product showcases, bank-grade secure checkout, integrated order tracking system, and a robust Operator Admin dashboard for inventory management.
+*   🔗 [Live Demo](https://auraaaa-store.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations)
 
 ### 📔 Reflectly - A Calming Journal
 > A secure personal reflection space designed with minimalist aesthetics.
