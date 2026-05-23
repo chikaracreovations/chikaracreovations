@@ -63,24 +63,36 @@ Here are some of the key web applications and platforms I have built to solve re
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub & Coding Analytics
 
-<p align="center">
-  <a href="https://github.com/chikaracreovations">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ansh's GitHub Stats" />
-  </a>
-  <a href="https://github.com/chikaracreovations">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikaracreovations&layout=compact&theme=tokyonight&langs_count=6" alt="Ansh's Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/chikaracreovations">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" alt="Ansh's Contribution Streak" />
-  </a>
-  <a href="https://leetcode.com/chikaracreovations" target="_blank">
-    <img height="180" src="https://leetcard.jacoblin.cool/chikaracreovations?theme=dark&font=Fira%20Code" alt="Ansh's LeetCode Stats" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr border="0">
+      <td align="center" valign="middle" border="0" style="border: none;">
+        <a href="https://github.com/chikaracreovations">
+          <img height="180" src="https://github-readme-stats.vercel.app/api?username=chikaracreovations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ansh's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle" border="0" style="border: none;">
+        <a href="https://github.com/chikaracreovations">
+          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikaracreovations&layout=compact&theme=tokyonight&langs_count=6" alt="Ansh's Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr border="0">
+      <td align="center" valign="middle" border="0" style="border: none;">
+        <a href="https://github.com/chikaracreovations">
+          <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=chikaracreovations&theme=tokyonight" alt="Ansh's Contribution Streak" />
+        </a>
+      </td>
+      <td align="center" valign="middle" border="0" style="border: none;">
+        <a href="https://leetcode.com/chikaracreovations" target="_blank">
+          <img height="180" src="https://leetcard.jacoblin.cool/chikaracreovations?colors=1a1b26,1a1b26,7aa2f7,a9b1d6,ff9e64,9ece6a,bb9af7,2ac3de&font=Fira%20Code" alt="Ansh's LeetCode Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
