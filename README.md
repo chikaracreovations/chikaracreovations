@@ -38,11 +38,6 @@ I am a **2nd Year Computer Science & Engineering (AI) student** fueled by curios
 
 Here are some of the key web applications I have built to solve real-world problems and explore modern architectures:
 
-### 🤖 Naira - Virtual AI Assistant
-> A web-based AI companion featuring text and voice interactions powered by LLMs.
-*   **Core Tech**: JavaScript, Mistral-7B-Instruct, OpenRouter API
-*   **Key Features**: Futuristic glowing core animation UI, high-responsiveness, dual interactive channels (text and speech).
-*   🔗 [Live Demo](https://fridayaiassistant.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Ai-Chatbot-Naira.git)
 
 ### 🛒 Aura - Premium E-Commerce Store
 > A sophisticated, high-end e-commerce platform curating luxury apparel, modern tech, and urban accessories.
@@ -55,6 +50,13 @@ Here are some of the key web applications I have built to solve real-world probl
 *   **Core Tech**: HTML, CSS, Firebase (Auth & Firestore)
 *   **Key Features**: User-specific workspace authentication, real-time database syncing, clean UI designed to reduce digital clutter and encourage reflection.
 *   🔗 [Live Demo](https://chikaracreovations.github.io/Reflectly-A-Calming-Journal/index.html) | [GitHub Repository](https://github.com/chikaracreovations/Reflectly-A-Calming-Journal)
+
+  ### 🤖 Naira - Virtual AI Assistant
+> A web-based AI companion featuring text and voice interactions powered by LLMs.
+*   **Core Tech**: JavaScript, Mistral-7B-Instruct, OpenRouter API
+*   **Key Features**: Futuristic glowing core animation UI, high-responsiveness, dual interactive channels (text and speech).
+*   🔗 [Live Demo](https://fridayaiassistant.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Ai-Chatbot-Naira.git)
+
 
 ### 🎨 Doodle Board & Collaborative Whiteboard
 > Canvas drawing workspaces for both standalone and real-time collaborative drafting.
