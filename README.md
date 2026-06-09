@@ -45,6 +45,12 @@ Here are some of the key web applications I have built to solve real-world probl
 *   **Key Features**: Impeccable premium product showcases, bank-grade secure checkout, integrated order tracking system, and a robust Operator Admin dashboard for inventory management.
 *   🔗 [Live Demo](https://auraaaa-store.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Aura-store.git)
 
+### 🎨 Doodle Board & Collaborative Whiteboard
+> Canvas drawing workspaces for both standalone and real-time collaborative drafting.
+*   **Core Tech**: HTML5 Canvas, JavaScript, WebSockets
+*   **Key Features**: Solo browser sketching with save/load local storage; collaborative model using WebSocket events for concurrent low-latency drawing.
+*   🔗 [Live Doodle Board](https://chikaracreovations.github.io/Collaborative-Doodle-Board/main.html) | [GitHub Repository](https://github.com/chikaracreovations/Doodle-Board)
+
 ### 📔 Reflectly - A Calming Journal
 > A secure personal reflection space designed with minimalist aesthetics.
 *   **Core Tech**: HTML, CSS, Firebase (Auth & Firestore)
@@ -56,13 +62,6 @@ Here are some of the key web applications I have built to solve real-world probl
 *   **Core Tech**: JavaScript, Mistral-7B-Instruct, OpenRouter API
 *   **Key Features**: Futuristic glowing core animation UI, high-responsiveness, dual interactive channels (text and speech).
 *   🔗 [Live Demo](https://fridayaiassistant.netlify.app) | [GitHub Repository](https://github.com/chikaracreovations/Ai-Chatbot-Naira.git)
-
-
-### 🎨 Doodle Board & Collaborative Whiteboard
-> Canvas drawing workspaces for both standalone and real-time collaborative drafting.
-*   **Core Tech**: HTML5 Canvas, JavaScript, WebSockets
-*   **Key Features**: Solo browser sketching with save/load local storage; collaborative model using WebSocket events for concurrent low-latency drawing.
-*   🔗 [Live Doodle Board](https://chikaracreovations.github.io/Collaborative-Doodle-Board/main.html) | [GitHub Repository](https://github.com/chikaracreovations/Doodle-Board)
 
 ---
 
